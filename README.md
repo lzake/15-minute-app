@@ -1,5 +1,5 @@
-# Electron Loaded website
+# 15 minute app
 
-**Using Electron to load a website and other mechanics**
+**showing app mechanics**
 
-This is an application based on the website www.ZachariahLowe.com# 15-minute-app
+made in 15 minutes
